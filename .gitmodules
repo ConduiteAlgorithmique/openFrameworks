@@ -4,3 +4,18 @@
 [submodule "scripts/apothecary"]
 	path = scripts/apothecary
 	url = https://github.com/openframeworks/apothecary
+[submodule "addons/ofxJsonSettings"]
+	path = addons/ofxJsonSettings
+	url = https://github.com/ConduiteAlgorithmique/ofxJsonSettings
+[submodule "addons/ofxHDF5"]
+	path = addons/ofxHDF5
+	url = https://github.com/ConduiteAlgorithmique/ofxHDF5
+[submodule "addons/ofxSoundObjects"]
+	path = addons/ofxSoundObjects
+	url = https://github.com/ConduiteAlgorithmique/ofxSoundObjects
+[submodule "addons/ofxHapPlayer"]
+	path = addons/ofxHapPlayer
+	url = https://github.com/ConduiteAlgorithmique/ofxHapPlayer
+[submodule "addons/ofxFatLines"]
+	path = addons/ofxFatLines
+	url = https://github.com/ConduiteAlgorithmique/ofxFatLines
