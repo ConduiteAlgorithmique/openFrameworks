@@ -27,10 +27,12 @@ ofxAndroid/ofAndroidLib/gen
 !ofxProjectGenerator
 !ofxPoco
 !ofxJsonSettings
+!ofxJSON
 !ofxHDF5
 !ofxSoundObjects
 !ofxHapPlayer
 !ofxFatLines
+!ofxFft
 
 #ignore binary libraries
 ofxOpenCv/libs

@@ -1189,6 +1189,13 @@ void ofPolyline_<T>::updateCache(bool bForceUpdate) const {
 
 //--------------------------------------------------
 template<class T>
+void ofPolyline_<T>::shorten(int n){
+    assert(n < points.size());
+    std::vector<T>(points.begin()+n, points.end()).swap(points);
+}
+
+//--------------------------------------------------
+template<class T>
 typename std::vector<T>::iterator ofPolyline_<T>::begin(){
 	return points.begin();
 }

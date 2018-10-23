@@ -25,3 +25,9 @@
 [submodule "apps/myApps/ConduiteAlgorithmique"]
 	path = apps/myApps/ConduiteAlgorithmique
 	url = https://github.com/ConduiteAlgorithmique/ConduiteAlgorithmique
+[submodule "addons/ofxJSON"]
+	path = addons/ofxJSON
+	url = https://github.com/ConduiteAlgorithmique/ofxJSON
+[submodule "addons/ofxFft"]
+	path = addons/ofxFft
+	url = https://github.com/ConduiteAlgorithmique/ofxFft

@@ -516,7 +516,7 @@ public:
 	void draw() const;
 
 	/// \}
-
+    void shorten(int n);
 
 private:
 	void setCircleResolution(int res);
