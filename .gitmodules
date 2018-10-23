@@ -19,3 +19,9 @@
 [submodule "addons/ofxFatLines"]
 	path = addons/ofxFatLines
 	url = https://github.com/ConduiteAlgorithmique/ofxFatLines
+[submodule "apps/myApps/-f"]
+	path = apps/myApps/-f
+	url = https://github.com/ConduiteAlgorithmique/ConduiteAlgorithmique
+[submodule "apps/myApps/ConduiteAlgorithmique"]
+	path = apps/myApps/ConduiteAlgorithmique
+	url = https://github.com/ConduiteAlgorithmique/ConduiteAlgorithmique
