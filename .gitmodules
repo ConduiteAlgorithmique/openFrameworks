@@ -31,3 +31,7 @@
 [submodule "addons/ofxFft"]
 	path = addons/ofxFft
 	url = https://github.com/ConduiteAlgorithmique/ofxFft
+
+[submodule "addons/ofxColorMap"]
+	path = addons/ofxColorMap
+	url = https://github.com/ConduiteAlgorithmique/ofxColorMap
