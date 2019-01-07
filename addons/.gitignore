@@ -33,7 +33,7 @@ ofxAndroid/ofAndroidLib/gen
 !ofxHapPlayer
 !ofxFatLines
 !ofxFft
-
+!ofxColorMap
 #ignore binary libraries
 ofxOpenCv/libs
 ofxAssimpModelLoader/libs
